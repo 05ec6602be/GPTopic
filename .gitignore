@@ -1,0 +1,8 @@
+Data/
+__pycache__/
+Embeddings/
+t.ipynb
+dist/
+*.egg-info/
+SavedEmbeddings/
+examples_test/

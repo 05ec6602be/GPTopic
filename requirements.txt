@@ -1,0 +1,16 @@
+gensim
+hdbscan
+nltk
+numpy
+openai
+pandas
+plotly
+regex
+scikit-learn
+seaborn
+sentence-transformers
+tiktoken
+tokenizers
+tqdm
+umap-learn
+umap-learn[plot]
