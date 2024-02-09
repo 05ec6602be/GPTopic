@@ -18,7 +18,7 @@ When directly interacting with GPTopic via prompting and without explicitly call
 
 To ensure double-blind reviewing, the code is not yet available on PyPi. However, you can install the package directly by cloning the repository and installing it locally via pip.
 
-Python-Version: Tested under 3.10.0
+Python-Version: Tested under 3.10.11
 
 ```bash	
 git clone https://github.com/05ec6602be/GPTopic
