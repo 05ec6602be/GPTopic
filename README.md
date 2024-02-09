@@ -27,6 +27,7 @@ git clone https://github.com/05ec6602be/GPTopic
 cd GPTopic
 ```
 ```bash
+pip install build
 python -m build
 ```
 ```bash
