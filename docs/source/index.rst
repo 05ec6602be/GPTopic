@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to topicgpt's documentation!
+Welcome to gptopic's documentation!
 ====================================
 
 .. include:: ../README.rst
@@ -12,7 +12,8 @@ Welcome to topicgpt's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   topicgpt  
+   gptopic
+
 
 Indices and tables
 ==================
