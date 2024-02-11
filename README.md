@@ -36,7 +36,7 @@ pip install dist/gptopic-0.0.1-py3-none-any.whl
 
 ## Further Documentation
 
-You can find detailed documentation of the available classes and functions [here](https://lmu-seminar-llms.github.io/GPTopic/).
+You can find detailed documentation of the available classes and functions [here](https://gptopic.readthedocs.io/en/latest/).
 
 
 ## Example 
