@@ -1,61 +1,61 @@
-topicgpt package
+gptopic package
 ================
 
 Submodules
 ----------
 
-topicgpt.Clustering module
+gptopic.Clustering module
 --------------------------
 
-.. automodule:: topicgpt.Clustering
+.. automodule:: gptopic.Clustering
    :members:
    :undoc-members:
    :show-inheritance:
 
-topicgpt.ExtractTopWords module
+gptopic.ExtractTopWords module
 -------------------------------
 
-.. automodule:: topicgpt.ExtractTopWords
+.. automodule:: gptopic.ExtractTopWords
    :members:
    :undoc-members:
    :show-inheritance:
 
-topicgpt.GetEmbeddingsOpenAI module
+gptopic.GetEmbeddingsOpenAI module
 -----------------------------------
 
-.. automodule:: topicgpt.GetEmbeddingsOpenAI
+.. automodule:: gptopic.GetEmbeddingsOpenAI
    :members:
    :undoc-members:
    :show-inheritance:
 
-topicgpt.TopicGPT module
+gptopic.gptopic module
 ------------------------
 
-.. automodule:: topicgpt.TopicGPT
+.. automodule:: gptopic.gptopic
    :members:
    :undoc-members:
    :show-inheritance:
 
-topicgpt.TopicPrompting module
+gptopic.TopicPrompting module
 ------------------------------
 
-.. automodule:: topicgpt.TopicPrompting
+.. automodule:: gptopic.TopicPrompting
    :members:
    :undoc-members:
    :show-inheritance:
 
-topicgpt.TopicRepresentation module
+gptopic.TopicRepresentation module
 -----------------------------------
 
-.. automodule:: topicgpt.TopicRepresentation
+.. automodule:: gptopic.TopicRepresentation
    :members:
    :undoc-members:
    :show-inheritance:
 
-topicgpt.TopwordEnhancement module
+gptopic.TopwordEnhancement module
 ----------------------------------
 
-.. automodule:: topicgpt.TopwordEnhancement
+.. automodule:: gptopic.TopwordEnhancement
    :members:
    :undoc-members:
    :show-inheritance:
@@ -63,7 +63,7 @@ topicgpt.TopwordEnhancement module
 Module contents
 ---------------
 
-.. automodule:: topicgpt
+.. automodule:: gptopic
    :members:
    :undoc-members:
    :show-inheritance:
