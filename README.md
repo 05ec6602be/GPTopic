@@ -21,7 +21,7 @@ To ensure double-blind reviewing, the code is not yet available on PyPi. However
 Python-Version: Tested under Python 3.10.11 with Python Virtual Environments (Venvs).
 
 ```bash	
-!pip install git+https://github.com/05ec6602be/GPTopic.git
+pip install git+https://github.com/05ec6602be/GPTopic.git
 ```
 
 Alternatively: 
